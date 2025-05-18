@@ -1,5 +1,3 @@
-THIS IS ONLY FOR EDUCATIONAL PURPOSES.
-
 # 🎬 Movie Showcase App
 
 A modern React application for discovering trending movies and TV shows, powered by the TMDB API.
